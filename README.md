@@ -15,5 +15,4 @@ Machine learning projects with regression algorithms and data analysis using Pyt
 pandas, numpy, matplotlib, scikit-learn, jupyter
 ```
 
-## Author
-Anuraag (23BPS1098)
+
